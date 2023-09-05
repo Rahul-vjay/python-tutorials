@@ -26,3 +26,5 @@ max_income = data['Income'].max()
 # %%
 avg_income = data['Income'].mean()
 # %%
+
+l3 =[]
